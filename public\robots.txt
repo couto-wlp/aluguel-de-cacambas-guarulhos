@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cacambasguarulhos.com.br/sitemap-index.xml
+Sitemap: https://aluguel-de-cacambas-guarulhos.vercel.app/sitemap.xml
