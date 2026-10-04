@@ -2,7 +2,7 @@
 title: "Caçamba de 7m³"
 seoTitle: "Aluguel de Caçamba 7m³ em Guarulhos - SP | Preço Justo"
 description: "A solução de máxima capacidade projetada para atender construtoras, galpões industriais e grandes polos comerciais em Guarulhos, SP."
-image: "/images/cacamba-7m.png"
+image: "/images/cacamba-7m.webp"
 specs:
   altura: "1.60m"
   largura: "1.80m"
@@ -16,7 +16,7 @@ Quando a empreitada é robusta, sua obra precisa de equipamentos à altura. A ca
 
 Se o seu projeto envolve demolições intensas, limpeza completa de terrenos ou a geração contínua de grandes volumes de resíduos, este é o modelo que vai otimizar o seu tempo e o seu orçamento.
 
-![Caçamba de 7m³ para aluguel em Guarulhos SP](/images/cacamba-7m.png)
+![Caçamba de 7m³ para aluguel em Guarulhos SP](/images/cacamba-7m.webp)
 
 ## Vantagens e Principais Aplicações
 

@@ -2,14 +2,14 @@
 title: "Aluguel de Caçamba para Gesso e Drywall em Guarulhos SP"
 description: "Aluguel de caçamba para gesso e drywall em Guarulhos, SP. Coleta exclusiva para resíduos de gesso acartonado e placas com descarte ecológico e emissão de MTR."
 publishDate: 2026-09-20
-image: "/images/cacamba-gesso-drywall.png"
+image: "/images/cacamba-gesso-drywall.webp"
 ---
 
 O gesso é tecnicamente classificado como um resíduo especial e, por determinação legal, não pode ser misturado ao entulho comum de alvenaria. Misturar essas caçambas em Guarulhos pode resultar em contaminação do solo e gerar autuações ambientais rigorosas para o proprietário da obra.
 
 Nossa equipe oferece uma solução especializada, fornecendo equipamentos limpos e exclusivos para a coleta e destinação 100% ecológica desse material, garantindo a tranquilidade da sua reforma.
 
-![Caçamba com resíduos de gesso e drywall em Guarulhos SP](/images/cacamba-gesso-drywall.png)
+![Caçamba com resíduos de gesso e drywall em Guarulhos SP](/images/cacamba-gesso-drywall.webp)
 
 ## O Que Pode Ser Descartado Nesta Categoria?
 

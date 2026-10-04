@@ -2,7 +2,7 @@
 title: "Caçamba de 4m³"
 seoTitle: "Aluguel de Caçamba 4m³ em Guarulhos - SP | Preço Justo"
 description: "A solução ideal para pequenas reformas residenciais e limpezas rápidas de quintal."
-image: "/images/cacamba-4m.png"
+image: "/images/cacamba-4m.webp"
 specs:
   altura: "1.20m"
   largura: "1.40m"
@@ -16,7 +16,7 @@ Procurando a melhor opção em custo-benefício para a sua reforma? A caçamba d
 
 Com um design compacto e prático, ela foi pensada para caber facilmente na sua garagem ou na frente da sua residência. Isso garante a organização do seu canteiro de obras sem bloquear calçadas ou atrapalhar o trânsito da sua rua.
 
-![Caçamba de 4m³ para aluguel em Guarulhos SP](/images/cacamba-4m.png)
+![Caçamba de 4m³ para aluguel em Guarulhos SP](/images/cacamba-4m.webp)
 
 ## Principais Indicações de Uso
 

@@ -2,7 +2,7 @@
 title: "Caçamba de 8m³"
 seoTitle: "Aluguel de Caçamba 8m³ em Guarulhos - SP | Preço Justo"
 description: "A escolha definitiva em Guarulhos para construtoras, indústrias e grandes canteiros de demolição com máxima capacidade volumétrica."
-image: "/images/cacamba-8m.png"
+image: "/images/cacamba-8m.webp"
 specs:
   altura: "1.70m"
   largura: "1.90m"
@@ -16,7 +16,7 @@ Quando o projeto exige espaço máximo para o descarte de resíduos, a caçamba 
 
 Se você busca otimização de tempo e segurança no gerenciamento de detritos, esta é a estrutura perfeita para a sua empreitada.
 
-![Caçamba de 8m³ para aluguel em Guarulhos SP](/images/cacamba-8m.png)
+![Caçamba de 8m³ para aluguel em Guarulhos SP](/images/cacamba-8m.webp)
 
 ## Por Que Escolher a Caçamba de 8m³?
 

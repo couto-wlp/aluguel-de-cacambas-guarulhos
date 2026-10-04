@@ -2,7 +2,7 @@
 title: "Caçamba de 6m³"
 seoTitle: "Aluguel de Caçamba 6m³ em Guarulhos - SP | Preço Justo"
 description: "A solução definitiva para o descarte de resíduos em grandes reformas, demolições e canteiros de obras pesadas em Guarulhos, SP."
-image: "/images/cacamba-6m.png"
+image: "/images/cacamba-6m.webp"
 specs:
   altura: "1.50m"
   largura: "1.70m"
@@ -14,7 +14,7 @@ specs:
 
 Seu projeto exige mais espaço? A caçamba estacionária de 6m³ é a solução definitiva para o descarte de resíduos em grandes reformas e demolições em Guarulhos, SP. Projetada para suportar cargas intensas, ela oferece o volume extra necessário para construtoras, empreiteiros e canteiros de obras de grande porte que geram muito entulho de alvenaria e materiais pesados.
 
-![Caçamba de 6m³ para aluguel em Guarulhos SP](/images/cacamba-6m.png)
+![Caçamba de 6m³ para aluguel em Guarulhos SP](/images/cacamba-6m.webp)
 
 ## Aplicações e Vantagens Principais
 

@@ -26,12 +26,11 @@ const { title, description, transparentHeader = false } = Astro.props;
     <SEO title={title} description={description} />
     <SchemaLocalBusiness />
 
-    <!-- Resource Hints & Non-Render-Blocking Font Optimization -->
-    <link rel="dns-prefetch" href="https://fonts.googleapis.com">
-    <link rel="dns-prefetch" href="https://fonts.gstatic.com">
+    <!-- Resource Hints & Mobile LCP Preload -->
+    <link rel="preload" href="/hero-bg-mobile.webp" as="image" type="image/webp" media="(max-width: 640px)">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" media="print" onload="this.media='all';this.onload=null;">
     <noscript>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap">
     </noscript>

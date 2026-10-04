@@ -65,7 +65,7 @@ const equipamentosDestaque = servicos.slice(0, 6);
             <div class="h-full bg-white p-10 rounded-2xl shadow-lg shadow-gray-200/40 border border-gray-100 group-hover:border-primary/50 group-hover:-translate-y-2 transition-all">
               {servico.data.image && (
                 <div class="mb-6 h-[201px] flex items-center justify-center">
-                  <img src={servico.data.image} alt={servico.data.title} class="w-full h-full object-contain hover:scale-105 transition-transform duration-300" />
+                  <img src={servico.data.image} alt={servico.data.title} width="280" height="200" loading="lazy" decoding="async" class="w-full h-full object-contain hover:scale-105 transition-transform duration-300" />
                 </div>
               )}
               <h3 class="text-2xl font-black text-gray-900 mb-4 group-hover:text-secondary transition-colors">
@@ -143,7 +143,7 @@ const equipamentosDestaque = servicos.slice(0, 6);
           <p class="text-gray-700 font-medium italic mb-8 leading-relaxed">"O serviço foi excelente e muito rápido. A caçamba entregue resolveu o entulho da minha pequena reforma residencial com enorme facilidade e muita praticidade."</p>
           <div class="flex items-center gap-4 mt-auto">
             <div class="relative inline-block">
-              <img src="/images/sergio.jpg" alt="Sérgio Rodrigues" class="w-[69px] h-[69px] rounded-full object-cover shadow-sm border-2 border-primary/20" />
+              <img src="/images/sergio.webp" width="69" height="69" alt="Sérgio Rodrigues" loading="lazy" decoding="async" class="w-[69px] h-[69px] rounded-full object-cover shadow-sm border-2 border-primary/20" />
               <div class="absolute -bottom-1 -right-1 w-[29px] h-[29px] bg-white rounded-full flex items-center justify-center shadow-sm border border-gray-100">
                 <svg class="w-5 h-5 text-pink-500" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg>
               </div>
@@ -162,7 +162,7 @@ const equipamentosDestaque = servicos.slice(0, 6);
           <p class="text-gray-700 font-medium italic mb-8 leading-relaxed">"Aluguei uma caçamba de cinco metros e fiquei impressionada com a rapidez no atendimento. O motorista foi muito educado e o preço foi justo."</p>
           <div class="flex items-center gap-4 mt-auto">
             <div class="relative inline-block">
-              <img src="/images/patricia.jpg" alt="Patrícia Reis" class="w-[69px] h-[69px] rounded-full object-cover shadow-sm border-2 border-primary/20" />
+              <img src="/images/patricia.webp" width="69" height="69" alt="Patrícia Reis" loading="lazy" decoding="async" class="w-[69px] h-[69px] rounded-full object-cover shadow-sm border-2 border-primary/20" />
               <div class="absolute -bottom-1 -right-1 w-[29px] h-[29px] bg-white rounded-full flex items-center justify-center shadow-sm border border-gray-100">
                 <svg class="w-5 h-5 text-blue-600" fill="currentColor" viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.469h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.469h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
               </div>
@@ -181,7 +181,7 @@ const equipamentosDestaque = servicos.slice(0, 6);
           <p class="text-gray-700 font-medium italic mb-8 leading-relaxed">"Trabalho em obras grandes e sempre peço as caçambas deles. Eles entregam o pedido rápido, nunca deixam a obra parada, prestando um excelente serviço."</p>
           <div class="flex items-center gap-4 mt-auto">
             <div class="relative inline-block">
-              <img src="/images/jose.jpg" alt="José Pedreiro" class="w-[69px] h-[69px] rounded-full object-cover shadow-sm border-2 border-primary/20" />
+              <img src="/images/jose.webp" width="69" height="69" alt="José Pedreiro" loading="lazy" decoding="async" class="w-[69px] h-[69px] rounded-full object-cover shadow-sm border-2 border-primary/20" />
               <div class="absolute -bottom-1 -right-1 w-[29px] h-[29px] bg-white rounded-full flex items-center justify-center shadow-sm border border-gray-100">
                 <svg class="w-4 h-4 text-black" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
               </div>
@@ -207,7 +207,7 @@ const equipamentosDestaque = servicos.slice(0, 6);
         <!-- Esquerda: Imagem -->
         <div class="relative group cursor-pointer">
           <div class="absolute inset-0 bg-yellow-400/30 rounded-3xl translate-x-4 translate-y-4 group-hover:translate-x-6 group-hover:translate-y-6 transition-transform duration-500"></div>
-          <img src="/images/sobre_nos.png" alt="Caçambas Guarulhos" class="relative z-10 w-full h-auto object-cover rounded-3xl shadow-xl border border-yellow-200 group-hover:rotate-3 group-hover:scale-105 transition-transform duration-500" />
+          <img src="/images/sobre_nos.webp" width="600" height="400" alt="Caçambas Guarulhos" loading="lazy" decoding="async" class="relative z-10 w-full h-auto object-cover rounded-3xl shadow-xl border border-yellow-200 group-hover:rotate-3 group-hover:scale-105 transition-transform duration-500" />
         </div>
         
         <!-- Direita: Texto -->

@@ -2,14 +2,14 @@
 title: "Locação de Caçamba para Resíduo Industrial em Guarulhos"
 description: "Alugue caçambas para descarte de materiais comerciais, recicláveis e resíduos industriais em Guarulhos. Garantimos descarte legalizado e certificado ambiental."
 publishDate: 2026-09-20
-image: "/images/cacamba-residuo-industrial.png"
+image: "/images/cacamba-residuo-industrial.webp"
 ---
 
 A gestão eficiente de resíduos comerciais e industriais é um pilar fundamental para empresas que buscam manter a organização de seus galpões, estoques e obras, além de cumprir rigorosamente as normativas ambientais do município de Guarulhos, SP.
 
 Nosso serviço de aluguel de caçambas estacionárias é projetado especificamente para atender à demanda de indústrias leves, shopping centers, condomínios logísticos e empresas que geram um alto volume de descarte diário de resíduos não perigosos (Classe II).
 
-![Caçamba para coleta de materiais mistos e resíduos industriais em Guarulhos SP](/images/cacamba-residuo-industrial.png)
+![Caçamba para coleta de materiais mistos e resíduos industriais em Guarulhos SP](/images/cacamba-residuo-industrial.webp)
 
 ## Quais Materiais Mistos e Comerciais Recolhemos?
 

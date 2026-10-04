@@ -2,14 +2,14 @@
 title: "Caçamba para Entulho de Obras e Alvenaria em Guarulhos"
 description: "Coleta de entulho de alvenaria em Guarulhos. Aluguel de caçambas com descarte legalizado, entrega rápida e emissão de MTR."
 publishDate: 2026-09-20
-image: "/images/cacamba-entulho-alvenaria.png"
+image: "/images/cacamba-entulho-alvenaria.webp"
 ---
 
 A base de qualquer projeto bem-sucedido é um canteiro limpo, organizado e livre de obstáculos. Somos especialistas na remoção e destinação de resíduos pesados da construção civil em Guarulhos, SP.
 
 Gerenciamos o descarte de sobras de alvenaria e concreto com total agilidade, garantindo que seus pedreiros, engenheiros e prestadores de serviço trabalhem com máxima segurança e sem interrupções por acúmulo de material.
 
-![Caçamba de 4m³ com entulho de alvenaria e obras em Guarulhos](/images/cacamba-entulho-alvenaria.png)
+![Caçamba de 4m³ com entulho de alvenaria e obras em Guarulhos](/images/cacamba-entulho-alvenaria.webp)
 
 ## O Que Coletamos Nesta Categoria?
 

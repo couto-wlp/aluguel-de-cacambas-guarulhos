@@ -2,7 +2,7 @@
 title: "Caçamba Roll-on"
 seoTitle: "Aluguel de Caçamba Roll-on em Guarulhos | Caçambas B2B"
 description: "A solução definitiva em grande escala para atender indústrias, shopping centers e canteiros de obras monumentais em Guarulhos, SP."
-image: "/images/cacamba-roll-on.png"
+image: "/images/cacamba-roll-on.webp"
 specs:
   altura: "1.80m"
   largura: "2.40m"
@@ -16,7 +16,7 @@ A gestão de detritos em grande escala exige maquinário pesado e eficiência lo
 
 Projetada para facilitar o carregamento de materiais de proporções gigantescas, esta estrutura garante um processo de escoamento ágil, mantendo o seu espaço corporativo ou parque fabril sempre limpo e operacional.
 
-![Caçamba Roll-on para aluguel em Guarulhos SP](/images/cacamba-roll-on.png)
+![Caçamba Roll-on para aluguel em Guarulhos SP](/images/cacamba-roll-on.webp)
 
 ## Vantagens do Equipamento Roll-on
 

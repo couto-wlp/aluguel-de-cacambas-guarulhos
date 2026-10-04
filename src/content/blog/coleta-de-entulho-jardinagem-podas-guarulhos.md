@@ -2,12 +2,12 @@
 title: "Caçamba para Entulho de Jardinagem e Podas em Guarulhos"
 description: "Limpeza de terrenos e descarte de galhos, folhas e restos de podas com destinação sustentável. Mantenha seu quintal ou condomínio organizado com nossa entrega expressa em Guarulhos."
 publishDate: 2026-09-20
-image: "/images/cacamba-jardinagem-podas.png"
+image: "/images/cacamba-jardinagem-podas.webp"
 ---
 
 A limpeza de terrenos e a poda de árvores geram grandes volumes de resíduos verdes que não podem ser descartados no lixo comum doméstico. Oferecemos a solução ideal com caçambas específicas para resíduos orgânicos e verdes em Guarulhos, SP.
 
-![Caçamba com resíduos de jardinagem e podas em Guarulhos SP](/images/cacamba-jardinagem-podas.png)
+![Caçamba com resíduos de jardinagem e podas em Guarulhos SP](/images/cacamba-jardinagem-podas.webp)
 
 ## Resíduos Coletados nesta Categoria
 

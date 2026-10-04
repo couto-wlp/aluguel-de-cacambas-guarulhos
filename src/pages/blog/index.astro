@@ -25,7 +25,7 @@ posts.sort((a, b) => b.data.publishDate.getTime() - a.data.publishDate.getTime()
             <div class="h-full bg-white p-8 rounded-2xl shadow-lg shadow-gray-200/40 border border-gray-100 group-hover:border-primary/50 group-hover:-translate-y-2 transition-all flex flex-col overflow-hidden">
               {post.data.image && (
                 <div class="mb-6 -mx-8 -mt-8 overflow-hidden h-36 bg-gray-100">
-                  <img src={post.data.image} alt={post.data.title} class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" />
+                  <img src={post.data.image} alt={post.data.title} width="400" height="200" loading="lazy" decoding="async" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300" />
                 </div>
               )}
               <span class="text-sm font-bold text-primary mb-4">

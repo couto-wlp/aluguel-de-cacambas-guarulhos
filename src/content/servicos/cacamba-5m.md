@@ -2,7 +2,7 @@
 title: "Caçamba de 5m³"
 seoTitle: "Aluguel de Caçamba 5m³ em Guarulhos - SP | Preço Justo"
 description: "A escolha número um em Guarulhos para acomodar grandes volumes de entulho em reformas residenciais, comerciais e condomínios."
-image: "/images/cacamba-5m.png"
+image: "/images/cacamba-5m.webp"
 specs:
   altura: "1.40m"
   largura: "1.60m"
@@ -16,7 +16,7 @@ O modelo de 5m³ é a escolha número um entre engenheiros, empreiteiros e morad
 
 Nossa experiência no setor de coleta de resíduos na Grande São Paulo garante um serviço pontual, seguro e rigorosamente alinhado à legislação ambiental.
 
-![Caçamba de 5m³ para aluguel em Guarulhos SP](/images/cacamba-5m.png)
+![Caçamba de 5m³ para aluguel em Guarulhos SP](/images/cacamba-5m.webp)
 
 ## Principais Aplicações da Caçamba de 5m³
 
