@@ -1,18 +1,18 @@
 import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
-import vercel from '@astrojs/vercel/static';
+import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://aluguel-de-cacambas-guarulhos.vercel.app',
+  site: 'https://www.centraldacacamba.com.br',
   output: 'static',
-  adapter: vercel(),
   integrations: [
-    tailwind()
+    tailwind(),
+    sitemap()
   ],
   compressHTML: true,
   image: {
-    domains: ['aluguel-de-cacambas-guarulhos.vercel.app'],
+    domains: ['www.centraldacacamba.com.br'],
   },
   build: {
     inlineStylesheets: 'auto',
